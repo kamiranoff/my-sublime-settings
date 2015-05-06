@@ -1,0 +1,34 @@
+User/ColorPicker/
+User/Default (OSX).sublime-keymap
+User/Monokai (SL).tmTheme
+User/Package Control.cache/
+User/Package Control.last-run
+User/Package Control.merged-ca-bundle
+User/Package Control.system-ca-bundle
+User/Package Control.user-ca-bundle
+User/SideBarEnhancements/
+User/SublimeLinter/
+User/Tomorrow-Night (SL).tmTheme
+User/base16-eighties.dark (SL).tmTheme
+User/base16-ocean.dark (SL).tmTheme
+User/base16-ocean.light (SL).tmTheme
+User/bh_unicode_properties.cache
+User/superman (SL).tmTheme
+Colorsublime - Themes/
+Emmet Css Snippets/
+HTML/
+JSHint Gutter/
+JSHint/
+PyV8/
+Rails/
+Seti_UI/
+SublimeCodeIntel/
+Terminal/
+bz2/
+Backup/
+ColorPicker/
+SublimeLinter/
+
+
+HTML-CSS-JS Prettify/*
+!HTML-CSS-JS Prettify/.jsbeautifyrc

@@ -1,0 +1,37 @@
+{
+	"Seti_ClosedFolder_dots": false,
+	"Seti_ClosedFolder_remove": false,
+	"Seti_ClosedFolder_same": false,
+	"Seti_SB_big": true,
+	"Seti_SB_bright": true,
+	"Seti_SB_med": true,
+	"Seti_mouse_wheel_tabswitch": true,
+	"Seti_no_bar_undertabs": true,
+	"Seti_pad_3": true,
+	"Seti_pad_5": true,
+	"Seti_rainbow": true,
+	"Seti_sb_big_padding": true,
+	"Seti_sb_small_padding": true,
+	"Seti_sb_tree_med": true,
+	"Seti_sb_tree_miny": true,
+	"Seti_sb_tree_small": true,
+	"Seti_sb_tree_tiny": true,
+	"Seti_sb_wild": true,
+	"Seti_tabs_med": true,
+	"Seti_tabs_small": true,
+	"color_scheme": "Packages/User/SublimeLinter/Solarized-ocean (SL).tmTheme",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage",
+		"HTMLAttributes",
+		"JavaScript",
+		"Unicode Character Highlighter"
+	],
+	"open_files_in_new_window": false,
+	"tab_size": 2,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
