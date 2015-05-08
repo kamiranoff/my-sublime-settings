@@ -23,10 +23,10 @@
 	"font_size": 15,
 	"ignored_packages":
 	[
+		"Unicode Character Highlighter",
 		"Vintage",
-		"HTMLAttributes",
 		"JavaScript",
-		"Unicode Character Highlighter"
+		"HTMLAttributes"
 	],
 	"open_files_in_new_window": false,
 	"tab_size": 2,
