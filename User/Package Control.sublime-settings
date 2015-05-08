@@ -41,8 +41,6 @@
 		"jQuery Snippets pack",
 		"jQueryDocs",
 		"JsFormat",
-		"JSHint",
-		"JSHint Gutter",
 		"JSONLint",
 		"LESS",
 		"LiveReload",
@@ -61,9 +59,14 @@
 		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"SublimeOnSaveBuild",
+		"SummitLinter",
 		"Tag",
 		"Terminal",
 		"Theme - Spacegray",
@@ -73,7 +76,6 @@
 		"Trimmer",
 		"Twitter Bootstrap Snippets",
 		"Unicode Character Highlighter",
-		"W3CValidators",
-		"wpseek.com WordPress Developer Assistant"
+		"W3CValidators"
 	]
 }
